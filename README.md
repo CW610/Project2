@@ -6,23 +6,41 @@ Ever wanted to know if you truly know your favorite songs? Lyrical web app does 
 Technologies Used
 
 Angular 2+
+
 Java
+
 Hibernate
+
 AWS
+
 SQL
+
 Spring Framework
+
 JUnit
+
 Log4J
+
 HTML
+
 CSS
+
 
 Contributors
 
 Jesus Frontend
+
 Carla Junit testing/Backend
+
 Stephan lyrics api implementation
+
 Gerardo APIs for angular/Backend
+
 Features
+
 User can login with Spotify OAuth
+
 User can see their top 10 songs from spotify library
+
 User can take a quiz with 5 random questions from the users top 10 songs
+
